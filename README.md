@@ -1,4 +1,3 @@
 # BAQUIZ
-Quiz cu intrebari de BAC
-proiectul de atestat realizat la finalul clasei a 12-a reprezinta un quiz, un game tip "Ce spun romanii" cu intrebari din Examenul de Bacalaureat
-realizat cu HTML, CSS si JavaScript
+
+Proiectul de atestat, realizat la finalul clasei a 12-a, constă într-un quiz interactiv inspirat de formatul popular „Ce spun românii”. Acesta include întrebări atent selecționate din tematica Examenului de Bacalaureat, fiind construit cu ajutorul tehnologiilor web precum HTML, CSS și JavaScript. Jocul oferă o experiență captivantă și educativă, combinând distracția cu pregătirea academică.
